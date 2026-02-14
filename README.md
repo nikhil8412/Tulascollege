@@ -1,3 +1,4 @@
 # Tulascollege
-This is my second Git repository
+This is my second Git repository. 
+<br>
 NIKHIL SINGH
